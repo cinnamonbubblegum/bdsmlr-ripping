@@ -4,8 +4,7 @@ A guide to ripping bdsmlr blogs
 A wrote a tiny script ([prep.js](prep.js)) to expand all additional images and properly load videos for downloading.
 
 
-Drag this to your hotbar for later use
-<a class="bookmarklet" href="javascript:(function()%7Bdocument.querySelectorAll(%22.viewAll%22).forEach(function(c)%7Bc.click()%7D)document.querySelectorAll(%22.vjs-poster%22).forEach(function(c)%7Bc.click()%7D)document.querySelectorAll(%22.vjs-tech%22).forEach(function(c)%7Bc.click()%7D)%7D)()">prep</a>
+Make a bookmark and set the url to `javascript:(function()%7Bdocument.querySelectorAll(%22.viewAll%22).forEach(function(c)%7Bc.click()%7D)document.querySelectorAll(%22.vjs-poster%22).forEach(function(c)%7Bc.click()%7D)document.querySelectorAll(%22.vjs-tech%22).forEach(function(c)%7Bc.click()%7D)%7D)()`
 
 The steps I follow:
 
